@@ -5,4 +5,4 @@ An example .NET 6.0 Minimal API to demonstrate:
 - global using directives
 - minified DI container code
 
-![Smol Snek](/img/smol.jpg)
+![Smol Snek](./img/smol.jpg)
